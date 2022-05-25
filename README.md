@@ -1,8 +1,11 @@
-**Professional Software Developer**
+![image](https://imgur.com/MB5e0lW.png)
 
+<h1>Professional Software Developer</h1>
+
+<p>
 Py/Python;
 C++/C;
-C--;
+C-- ;
 Lua;
 Luna;
 Js/JavaScript;
@@ -10,7 +13,7 @@ Java;
 PHP;
 html;
 CSS;
-C#;
+C# ;
 WinDev;
 VB;
 VB.NET;
@@ -26,5 +29,17 @@ Rust;
 QML;
 ASIC;
 4D;
-R3D;
-______________________________________________________
+R3D
+</p>
+
+
+
+## Editor/Designer
+<p>
+Blender
+ae/After Effects
+Premiere Pro
+Adobe Photoshop
+</p>
+
+![image](https://imgur.com/XV1r4QK.gif)
