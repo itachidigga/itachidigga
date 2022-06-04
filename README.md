@@ -36,10 +36,10 @@ R3D
 
 ## Editor/Designer
 <p>
-Blender
-ae/After Effects
-Premiere Pro
-Adobe Photoshop
+Blender;
+After Effects;
+Premiere Pro;
+Adobe Photoshop;
 </p>
 
 ![image](https://imgur.com/XV1r4QK.gif)
