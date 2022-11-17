@@ -1,4 +1,4 @@
-![image](https://imgur.com/MB5e0lW.png)
+![image](https://ibb.co/sPKQZ5r)
 
 <h1>Professional Software Developer</h1>
 
