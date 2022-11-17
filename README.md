@@ -1,4 +1,4 @@
-![image](https://bilderupload.org/bild/73bf97067-r3ddata-banner)
+![image]([URL=https://bilderupload.org/bild/73bf97067-r3ddata-banner][IMG]https://bilderupload.org/image/thumbnail/resized-73bf97067-r3ddata-banner.png[/IMG][/URL])
 
 <h1>Professional Software Developer</h1>
 
