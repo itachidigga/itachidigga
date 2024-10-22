@@ -1,4 +1,4 @@
-[![image](https://ibb.co/zbq0Wnr)
+[![image](<a href="https://ibb.co/zbq0Wnr"><img src="https://i.ibb.co/zbq0Wnr/b970ff202c6b711a5be59783a8158d08.webp" alt="b970ff202c6b711a5be59783a8158d08" border="0"></a>)
 
 <h1>🚀Languages</h1>
 
