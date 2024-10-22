@@ -1,4 +1,4 @@
-![image](https://ibb.co/zbq0Wnr)
+[![image](https://ibb.co/zbq0Wnr)
 
 <h1>🚀Languages</h1>
 
