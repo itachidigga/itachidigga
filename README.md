@@ -1,4 +1,4 @@
-![image](https://bilderupload.org/image/73bf97067-r3ddata-banner.png)
+![image](https://ibb.co/zbq0Wnr)
 
 <h1>🚀Languages</h1>
 
